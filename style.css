@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+}
+
+.heading, .description {
+    color: black;
+    display: block;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.description {
+    padding-bottom: 2rem;
+}
+
+.allformelements {
+    background-color: darkblue;
+    color: white;
+    width: 400px;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 3%;
+}
+
+form div div {
+    padding-top: 1rem;
+}
